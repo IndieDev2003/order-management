@@ -1,9 +1,9 @@
-Here’s a professional and detailed `README.md` file for your project: 
 
-```markdown
-# Restaurant POS Web App
 
-A comprehensive **Restaurant POS (Point of Sale)** web application built using **React** for the frontend and **Node.js** for the backend. This application streamlines order management by enabling multiple employees to create, update, and manage orders in real time.
+
+# Order Management Web App
+
+A comprehensive **Order Management (Point of Sale)** web application built using **React** for the frontend and **Node.js** for the backend. This application streamlines order management by enabling multiple employees to create, update, and manage orders in real time.
 
 ## 🚀 Features
 
@@ -80,7 +80,7 @@ A comprehensive **Restaurant POS (Point of Sale)** web application built using *
 ## 📂 Project Structure
 
 ```
-restaurant-pos/
+order-management/
 ├── frontend/        # React.js application
 ├── backend/         # Node.js server
 └── README.md        # Project documentation
